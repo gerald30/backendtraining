@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # backend
 @writer JaeHo Song
 
@@ -226,3 +227,7 @@ frontend 에서 사용 할 수 있는 view 와 관련된 HTML 를 보관하는 t
     -- 하나의 레코드에 파일이 여러개 등록 될 때, gid 에 따라서 어떤 레코드의 파일들인지 쉽게 확인 할 수 있다.
 
 
+=======
+# backendtraining
+2-12-2016
+>>>>>>> 5b445326f8b846cac5bd950716df579a4c40eb9e
